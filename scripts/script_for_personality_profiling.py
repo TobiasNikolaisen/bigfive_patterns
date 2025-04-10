@@ -59,6 +59,11 @@ payload = [
         "text": "If we introduce kids to these ideas at an age-appropriate time, you can get them to think about these issues before they are in a situation where they have to deal with them. I was flipping through images of reality television, where there were these young people competing for a million dollars... and then I saw footage from the Iraq war, and these two things began to fuse together in a very unsettling way."
     },
     {
+        "id": "13",
+      	"language": "en",
+	"text": "I definitely prefer planning things far ahead as it gives me a sense control and security. However, it can feel like a waste of time if the plans goes sideways early on. I usually make decision based on logic and to the limits of my knowledge. However, when I have insufficient knowledge I have no problem going with my intuition."
+    },
+    {
         "id": "14",
         "language": "en",
         "text": "This above all: to thine own self be true. A fool thinks himself to be wise, but a wise man knows himself to be a fool. Love looks not with the eyes, but with the mind; and therefore is winged Cupid painted blind."
