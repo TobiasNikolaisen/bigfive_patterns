@@ -51,6 +51,7 @@ bigfive_patterns/
 │   └── bigfive_patterns.png
 ├── notebooks/
 │   ├── data_analysis.ipynb # This is the file to run for the analysis.
+│   └── data_analysis.pdf
 ├── results/
 │   ├── comparing_two_individuals/
 │   ├── individual_personality_profiles/
