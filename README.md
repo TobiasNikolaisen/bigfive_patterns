@@ -126,6 +126,13 @@ To run the analysis on your own machine:
 
 > **If you're using `conda` and the `bigfive_patterns.yml` file, you do not need to use `requirements.txt`. Both files define the same environment, just in different formats.**
 
+
+---
+
+## License
+
+This project is licensed under the GNU General Public License v3.0 (GPL-3.0). This means you are free to use, modify, and distribute the code as long as you also share any derivative works under the same license and include the original license text. Source code must remain accessible in all redistributions.
+
 ---
 
 ## Credits
